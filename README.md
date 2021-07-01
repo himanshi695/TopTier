@@ -1,2 +1,2 @@
 # TopTier
-An E-Commerce Website
+A MERN stack E-Commerce Website
