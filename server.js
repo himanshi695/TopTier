@@ -14,7 +14,7 @@ app.use(fileUpload({
     useTempFiles: true
 }))
 
-//Routes added
+//Routes addednpm
 app.use('/user', require('./routes/userRouter'))
 
 //connect to mongodb 
